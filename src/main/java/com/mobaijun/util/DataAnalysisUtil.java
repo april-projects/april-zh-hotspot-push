@@ -58,11 +58,12 @@ public class DataAnalysisUtil {
             zhInfo.setUrl(StringUtil.getZhUrl(temp.getTarget().getType(), temp.getCardId()));
             zhInfo.setDetailText(temp.getDetailText());
             zhInfo.setExcerpt(temp.getTarget().getExcerpt());
-            if (temp.getChildren().get(0).getThumbnail() == null) {
+            String thumbnail = temp.getChildren().get(0).getThumbnail();
+            if (thumbnail == null) {
                 // 默认图片
                 zhInfo.setThumbnail("https://tencent.cos.mobaijun.com/img/banner/4.jpg");
             } else {
-                zhInfo.setThumbnail(temp.getChildren().get(0).getThumbnail());
+                zhInfo.setThumbnail(thumbnail);
             }
             return zhInfo;
         }).collect(Collectors.toCollection(LinkedList::new));
