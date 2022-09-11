@@ -40,7 +40,7 @@ public class ZhInfo {
      * @return 字符串
      */
     public String formatMarkdown() {
-        String img = String.format("<img src=\"%s\" width = \"600\" height = \"500\" alt=\"%s\" align=center/>", thumbnail, detailText);
+        String img = String.format("<img src=\"%s\" width = \"829\" height = \"600\" alt=\"%s\" align=center/>", thumbnail, detailText);
         return String.format("%s<br>[%s](%s)<br>[%s] |", img, title, url, excerpt);
     }
 
