@@ -7,13 +7,14 @@
     <groupId>com.mobaijun</groupId>
     <artifactId>april-zh-hotspot-push</artifactId>
     <version>1.0.0</version>
-    <packaging>pom</packaging>
 
-    <name>push</name>
-    <url>http://www.mobaijun.com</url>
+    <name>april-zh-hotspot-push</name>
+    <url>https://www.mobaijun.com</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
         <!--<hutool-all.version>([5.*.*,]</hutool-all.version>-->
         <hutool-all.version>5.8.6</hutool-all.version>
     </properties>
@@ -38,28 +39,23 @@
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-assembly-plugin</artifactId>
-                <version>3.3.0</version>
-                <configuration>
-                    <archive>
-                        <manifest>
-                            <mainClass>com.mobaijun.RunZhApplication</mainClass>
-                        </manifest>
-                    </archive>
-                    <descriptorRefs>
-                        <!-- 这个jar-with-dependencies是assembly预先写好的一个，组装描述引用 -->
-                        <descriptorRef>jar-with-dependencies</descriptorRef>
-                    </descriptorRefs>
-                    <!-- 工程名 -->
-                    <finalName>${project.name}</finalName>
-                </configuration>
+                <artifactId>maven-shade-plugin</artifactId>
                 <executions>
                     <execution>
-                        <id>make-assembly</id>
                         <phase>package</phase>
                         <goals>
-                            <goal>single</goal>
+                            <goal>shade</goal>
                         </goals>
+                        <configuration>
+                            <createDependencyReducedPom>false</createDependencyReducedPom>
+                            <transformers>
+                                <transformer
+                                        implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                    <!-- 这个是你的程序入口文件 -->
+                                    <mainClass>com.mobaijun.RunZhApplication</mainClass>
+                                </transformer>
+                            </transformers>
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
