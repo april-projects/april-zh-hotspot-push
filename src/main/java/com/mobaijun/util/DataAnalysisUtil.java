@@ -59,9 +59,9 @@ public class DataAnalysisUtil {
             zhInfo.setDetailText(temp.getDetailText());
             zhInfo.setExcerpt(temp.getTarget().getExcerpt());
             String thumbnail = temp.getChildren().get(0).getThumbnail();
-            if (thumbnail == null) {
+            if ("".equals(thumbnail)) {
                 // 默认图片
-                zhInfo.setThumbnail("https://tencent.cos.mobaijun.com/img/banner/4.jpg");
+                zhInfo.setThumbnail("./img/1.jpg");
             } else {
                 zhInfo.setThumbnail(thumbnail);
             }
