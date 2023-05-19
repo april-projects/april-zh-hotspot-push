@@ -13,7 +13,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -51,7 +50,7 @@ public class DataAnalysisUtil {
      * @param zhEntity 数据模型
      */
     public static void getZhInfoData(ZhEntity zhEntity) {
-        LinkedList<ZhInfo> zhInfos = zhEntity.getData().stream().map(temp -> {
+        List<ZhInfo> zhInfos = zhEntity.getData().stream().map(temp -> {
             ZhInfo zhInfo = new ZhInfo();
             // Q_552344513
             zhInfo.setTitle(temp.getTarget().getTitle());
@@ -59,14 +58,10 @@ public class DataAnalysisUtil {
             zhInfo.setDetailText(temp.getDetailText());
             zhInfo.setExcerpt(temp.getTarget().getExcerpt());
             String thumbnail = temp.getChildren().get(0).getThumbnail();
-            if ("".equals(thumbnail)) {
-                // 默认图片
-                zhInfo.setThumbnail("./img/1.jpg");
-            } else {
-                zhInfo.setThumbnail(thumbnail);
-            }
+            // 默认图片
+            zhInfo.setThumbnail(thumbnail.isEmpty() ? "./img/1.jpg" : thumbnail);
             return zhInfo;
-        }).collect(Collectors.toCollection(LinkedList::new));
+        }).collect(Collectors.toList());
         // 写入 readme
         writerReadme(zhInfos);
     }
@@ -81,31 +76,24 @@ public class DataAnalysisUtil {
             if (!Files.exists(README)) {
                 Files.createFile(README);
             }
+            // 使用 StringBuilder 构建文件内容
+            StringBuilder content = new StringBuilder();
             // title
-            Files.write(README, Constant.README_TITLE.getBytes());
-            // 换行
-            Files.write(README, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+            content.append(Constant.README_TITLE).append(System.lineSeparator());
             // 分割线
-            Files.write(README, Constant.UNDERSCORE.getBytes(), StandardOpenOption.APPEND);
-            // 换行
-            Files.write(README, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-            // 表格
-            Files.write(README, "|      |".getBytes(), StandardOpenOption.APPEND);
-            // 换行
-            Files.write(README, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+            content.append(Constant.UNDERSCORE).append(System.lineSeparator());
+            // 表格头部
+            content.append("|      |").append(System.lineSeparator());
             // 表格地线
-            Files.write(README, "| ---- |".getBytes(), StandardOpenOption.APPEND);
-            Files.write(README, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-            infoList.forEach(temp -> {
-                try {
-                    Files.write(README, ("|" + temp.formatMarkdown()).getBytes(), StandardOpenOption.APPEND);
-                    Files.write(README, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
-            });
+            content.append("| ---- |").append(System.lineSeparator());
+            // 添加数据行
+            infoList.forEach(temp -> content.append("|").append(temp.formatMarkdown()).append(System.lineSeparator()));
+
+            // 将内容写入文件
+            Files.writeString(README, content.toString(), StandardOpenOption.CREATE);
         } catch (IOException e) {
-            log.error(e.getMessage(), "file write failed error");
+            log.error("File write failed: " + e.getMessage());
         }
     }
+
 }
