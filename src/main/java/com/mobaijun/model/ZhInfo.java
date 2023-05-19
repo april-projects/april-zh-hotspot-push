@@ -34,6 +34,9 @@ public class ZhInfo {
      */
     private String thumbnail;
 
+    public ZhInfo() {
+    }
+
     /**
      * 格式化 markdown 文本
      *
@@ -44,7 +47,14 @@ public class ZhInfo {
         return String.format("%s<br>[%s](%s)<br>[%s] |", img, title, url, excerpt);
     }
 
-    public ZhInfo() {
+    /**
+     * 推送内容格式化
+     *
+     * @return 消息
+     */
+    public String formatMarkdownMsg() {
+        String img = String.format("![%s](%s)", detailText, thumbnail);
+        return String.format("%s%s[%s](%s)%s[%s]", img, System.lineSeparator(), title, url, System.lineSeparator(), excerpt);
     }
 
     public String getTitle() {

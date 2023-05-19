@@ -62,6 +62,8 @@ public class DataAnalysisUtil {
             zhInfo.setThumbnail(thumbnail.isEmpty() ? "./img/1.jpg" : thumbnail);
             return zhInfo;
         }).collect(Collectors.toList());
+        // 推送机器人
+        sendMsg(zhInfos);
         // 写入 readme
         writerReadme(zhInfos);
     }
@@ -96,4 +98,15 @@ public class DataAnalysisUtil {
         }
     }
 
+    /**
+     * 构件markdown推送信息
+     *
+     * @param infoList 消息列表
+     */
+    private static void sendMsg(List<ZhInfo> infoList) {
+        StringBuilder msg = new StringBuilder();
+        // 最好不要超过25条热榜，否则无法发送
+        infoList.subList(0, 15).forEach(item -> msg.append(item.formatMarkdownMsg()).append(System.lineSeparator()).append(System.lineSeparator()).append("---").append(System.lineSeparator()).append(System.lineSeparator()));
+        RobotClient.sendMessage(false, false, Constant.DING_WEBHOOK, Constant.FS_WEBHOOK, msg.toString());
+    }
 }
