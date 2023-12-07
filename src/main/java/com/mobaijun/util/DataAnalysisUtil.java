@@ -105,8 +105,11 @@ public class DataAnalysisUtil {
      */
     private static void sendMsg(List<ZhInfo> infoList) {
         StringBuilder msg = new StringBuilder();
-        // 最好不要超过25条热榜，否则无法发送
-        infoList.subList(0, 15).forEach(item -> msg.append(item.formatMarkdownMsg()).append(System.lineSeparator()).append(System.lineSeparator()).append("---").append(System.lineSeparator()).append(System.lineSeparator()));
+        // 钉钉最好不要超过15条热榜，否则无法发送，飞书不要超过10条数据，并且飞书不支持markdown，后续有空在优化飞书显示内容
+        infoList.subList(0, 15).forEach(item -> msg.append(item.formatMarkdownMsg())
+                .append(System.lineSeparator())
+                .append(System.lineSeparator()).append("---")
+                .append(System.lineSeparator()).append(System.lineSeparator()));
         RobotClient.sendMessage(false, false, Constant.DING_WEBHOOK, Constant.FS_WEBHOOK, msg.toString());
     }
 }

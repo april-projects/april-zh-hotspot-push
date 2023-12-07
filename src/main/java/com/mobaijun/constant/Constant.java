@@ -21,10 +21,15 @@ public class Constant {
     /**
      * 钉钉 webhook 地址
      */
-    public static final String DING_WEBHOOK="https://oapi.dingtalk.com/robot/send?access_token=888888888888888888888888888";
+    public static final String DING_WEBHOOK = "https://oapi.dingtalk.com/robot/send?access_token=888888888888888888888888888";
 
     /**
      * 飞书地址
      */
-    public static final String FS_WEBHOOK="*********************************************";
+    public static final String FS_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/888888888888888888888888888";
+
+    /**
+     * 飞书签名
+     */
+    public static final String FS_SIGN = "888888888888888888888888888";
 }
