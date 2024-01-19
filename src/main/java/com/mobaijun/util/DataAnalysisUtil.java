@@ -9,6 +9,7 @@ import com.mobaijun.model.ZhEntity;
 import com.mobaijun.model.ZhInfo;
 
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -78,21 +79,32 @@ public class DataAnalysisUtil {
             if (!Files.exists(README)) {
                 Files.createFile(README);
             }
+
             // 使用 StringBuilder 构建文件内容
             StringBuilder content = new StringBuilder();
-            // title
-            content.append(Constant.README_TITLE).append(System.lineSeparator());
-            // 分割线
-            content.append(Constant.UNDERSCORE).append(System.lineSeparator());
+
             // 表格头部
-            content.append("|      |").append(System.lineSeparator());
-            // 表格地线
-            content.append("| ---- |").append(System.lineSeparator());
+            content.append("| 序号 |    标题    |              地址              |   热度   |          摘抄          |             略缩图             |").append(System.lineSeparator());
+
+            // 表格对齐方式
+            content.append("|:----:|:----------:|:----------------------------:|:--------:|:----------------------:|:-----------------------------:|").append(System.lineSeparator());
+
             // 添加数据行
-            infoList.forEach(temp -> content.append("|").append(temp.formatMarkdown()).append(System.lineSeparator()));
+            int index = 1;
+            for (ZhInfo temp : infoList) {
+                content.append(String.format("| %-4d | %-10s | [%-30s](%s) | %-7s | %-18s | ![略缩图](%s) |",
+                                index++,
+                                temp.getTitle(),
+                                "查看地址",
+                                temp.getUrl(),
+                                temp.getDetailText(),
+                                temp.getExcerpt(),
+                                temp.getThumbnail()))
+                        .append(System.lineSeparator());
+            }
 
             // 将内容写入文件
-            Files.writeString(README, content.toString(), StandardOpenOption.CREATE);
+            Files.writeString(README, content.toString(), StandardCharsets.UTF_8, StandardOpenOption.CREATE);
         } catch (IOException e) {
             log.error("File write failed: " + e.getMessage());
         }
