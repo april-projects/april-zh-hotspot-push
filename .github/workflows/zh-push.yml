@@ -30,7 +30,7 @@ jobs:
           git config --local user.email "mobaijun8@163.com"
           git config --local user.name "mobaijun"
           git pull
-          git add 知乎热榜.md
+          git add ThieuHotList.md
           git commit -m ":sparkles: update current hotspot"
       - name: Push changes
         uses: ad-m/github-push-action@master
