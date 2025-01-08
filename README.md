@@ -29,7 +29,7 @@
 ## 快速开始（飞书）
 
 1. 参考官方文档创建机器人（[创建机器人](https://open.feishu.cn/document/client-docs/bot-v3/add-custom-bot#399d949c)）
-2. ==出于安全考虑配置了飞书机器人的签名校验，需要你在 `com.mobaijun.constant.Constant` 配置 `FS_WEBHOOK ` 地址和签名配置==,改为工作流配置，参数是：`FS_WEBHOOK`，`FS_SIGN`
+2. ~~出于安全考虑配置了飞书机器人的签名校验，需要你在 `com.mobaijun.constant.Constant` 配置 `FS_WEBHOOK ` 地址和签名配置~~,改为工作流配置，参数是：`FS_WEBHOOK`，`FS_SIGN`
 
 ~~~java
 /**
