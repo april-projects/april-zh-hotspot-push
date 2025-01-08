@@ -11,7 +11,7 @@
 
 ![img.png](img/3.png)
 
-5. 点击完成，复制Webhook地址到代码的 `com/mobaijun/constant/Constant.java` 的钉钉 `DING_WEBHOOK`
+5. 点击完成，复制 Webhook 地址到 GitHub 工作流，新建：DING_WEBHOOK 系统环境变量
 6. 运行测试（效果图）
 
 通知详情
@@ -29,7 +29,7 @@
 ## 快速开始（飞书）
 
 1. 参考官方文档创建机器人（[创建机器人](https://open.feishu.cn/document/client-docs/bot-v3/add-custom-bot#399d949c)）
-2. 出于安全考虑配置了飞书机器人的签名校验，需要你在 `com.mobaijun.constant.Constant` 配置 `FS_WEBHOOK ` 地址和签名配置
+2. ==出于安全考虑配置了飞书机器人的签名校验，需要你在 `com.mobaijun.constant.Constant` 配置 `FS_WEBHOOK ` 地址和签名配置==,改为工作流配置，参数是：`FS_WEBHOOK`，`FS_SIGN`
 
 ~~~java
 /**
