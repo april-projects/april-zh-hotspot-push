@@ -18,6 +18,9 @@ public class RunZhApplication {
     public static void main(String[] args) {
         // 发起请求
         ZhEntity zhDataList = DataAnalysisUtil.getZhDataList(Constant.ZH_DATA_API);
+        if (zhDataList.getData().isEmpty()) {
+            return;
+        }
         DataAnalysisUtil.getZhInfoData(zhDataList);
     }
 }
