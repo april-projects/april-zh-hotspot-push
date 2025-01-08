@@ -25,9 +25,9 @@ jobs:
         run: mvn -B package --file pom.xml
       - name: Run Java Application
         env:
-          DB_URL: ${{ secrets.DING_WEBHOOK }}
-          DB_USER: ${{ secrets.FS_WEBHOOK }}
-          DB_PASSWORD: ${{ secrets.FS_SIGN }}
+          DING_WEBHOOK: ${{ secrets.DING_WEBHOOK }}
+          FS_WEBHOOK: ${{ secrets.FS_WEBHOOK }}
+          FS_SIGN: ${{ secrets.FS_SIGN }}
         run: java -jar target/april-zh-hotspot-push-1.0.0.jar
       - name: Commit files
         run: |
