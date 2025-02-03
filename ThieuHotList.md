@@ -1,277 +1,306 @@
 # 信息列表
 
 <details>
-<summary><b>1. 台媒报道 48 岁大 S 在日本过世，家属证实「流感并发肺炎」，她有哪些作品令你印象深刻？</b></summary>
+<summary><b>1. 如何评价饺子、郭帆、冯骥这类非科班人员制作了现象级作品这一情况？是偶然还是必然？有哪些因素影响？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11161777078)
-- **热度**: 3561 万热度
-- **摘抄**: 记者孟育民/台北报道 脸书粉专「日本旅人 旅游 购物美食情报」2日突发文写下「台...
+- **地址**: [传送门](https://www.zhihu.com/question/11112689336)
+- **热度**: 277 万热度
+- **摘抄**: 1、是否与教育学历有关？ 2、几人性格是否有存在通性？ 3、是否与现在用户需求的...
 
-<img src="https://pica.zhimg.com/80/v2-e2f218fea32cbedaba809b3ce04c0dd5_1440w.png" alt="略缩图" width="200" />
+<img src="https://pic3.zhimg.com/80/v2-156b84a660ed91bd5d4ce07aa0b13862_1440w.webp" alt="略缩图" width="200" />
 </details>
 
 <details>
 <summary><b>2. 家属证实「大 S 因流感并发肺炎去世」，流感引发肺炎有多危险？真的能致命吗？</b></summary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/11164816670)
-- **热度**: 2438 万热度
+- **热度**: 240 万热度
 - **摘抄**: 据多家岛内媒体报道，中国台湾女演员徐熙媛（别名大S）近日流感并发肺炎病逝，年仅4...
 
 <img src="https://picx.zhimg.com/80/v2-cd2882de52b948d7f0840605f868a88b_1440w.png" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>3. 总制片人于冬呼吁观众真实评价《蛟龙行动》，并强调绝不撤档，你对该片的评价如何？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11095522530)
-- **热度**: 1005 万热度
-- **摘抄**: 这两天，有关春节档电影《蛟龙行动》陷入排片困境、影片遭遇水军恶意打低分等话题，持...
-
-<img src="https://pic1.zhimg.com/80/v2-a5fb725a5f6781b97d75a6f7299c6651_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>4. 河南一电影院一天排88场《哪吒之魔童闹海》，平均10分钟一场，这合理吗？影院排片量受哪些原因影响？</b></summary>
+<summary><b>3. 河南一电影院一天排88场《哪吒之魔童闹海》，平均10分钟一场，这合理吗？影院排片量受哪些原因影响？</b></summary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/11109853412)
-- **热度**: 665 万热度
+- **热度**: 203 万热度
 - **摘抄**: 《哪吒之魔童闹海》在春节档期间表现出色，凭借其精彩的剧情、出色的特效以及深刻的主...
 
 <img src="https://pic2.zhimg.com/v2-42114c2ada4d8019c298f16f885704f9_1440w.png" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>5. 加拿大将对价值 1550 亿加元美国产品征收 25% 关税，此举能否有效维护加拿大的国家利益？</b></summary>
+<summary><b>4. 如果过年回家的花销相当于一个月工资，你还会回去过年吗？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11091797351)
-- **热度**: 365 万热度
-- **摘抄**: 当地时间2月1日，加拿大总理特鲁多在针对美国关税问题的新闻发布会上表示，作为对美...
+- **地址**: [传送门](https://www.zhihu.com/question/10586548416)
+- **热度**: 110 万热度
+- **摘抄**: 如果过年回家的花销相当于一个月工资，你还会坚定地选择回家过年吗？
 
-<img src="https://pic3.zhimg.com/v2-efab8db31f0b1219cac2a99742ce89be_1440w.png" alt="略缩图" width="200" />
+<img src="https://pic1.zhimg.com/v2-e839b7bcc2d043ec4fcf8cee5b6d2c96_1440w.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>6. 《哪吒之魔童闹海》如果换成孙悟空，能否守住陈塘关，击退阐教？</b></summary>
+<summary><b>5. 撒贝宁春晚说「屋里打伞不长个」，遭到女主持人调侃，这样的说法是怎样流传出来的？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11114490507)
-- **热度**: 284 万热度
+- **地址**: [传送门](https://www.zhihu.com/question/10774856768)
+- **热度**: 89 万热度
 - **摘抄**: 
 
-<img src="https://pica.zhimg.com/80/v2-074e3f9e5c82f390d22647b619d77366_1440w.png" alt="略缩图" width="200" />
+<img src="./img/1.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>7. 如何看待比亚迪 1 月新能源汽车销量约 30.05 万辆，同比增长 49.16%？</b></summary>
+<summary><b>6. 经常点同一家外卖，商家会知道你是常客吗？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11126624604)
-- **热度**: 156 万热度
-- **摘抄**: 比亚迪股份发布公告，于2025年1月，新能源汽车产量约32.79万辆，同比增长5...
+- **地址**: [传送门](https://www.zhihu.com/question/436152940)
+- **热度**: 78 万热度
+- **摘抄**: 
 
-<img src="https://picx.zhimg.com/80/v2-64ada1c376fddac2e352b5517851f205_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+<img src="https://pica.zhimg.com/50/v2-0fc287c2ae9b0d64c9b6b2920257503a_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>8. 发现我一生难以触及的文笔 DeepSeek 十几秒就可以生成上千字，感觉努力提升文笔没有意义，怎么办?</b></summary>
+<summary><b>7. 《哪吒之魔童闹海》哪吒自刎这一经典情节被改编，是为了现代价值观的创新，还是破坏了传统神话的原汁原味？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11067457870)
-- **热度**: 153 万热度
-- **摘抄**: deepseek这类ai的出现是不是预示着拼命提高自己的文笔已经没有了意义
+- **地址**: [传送门](https://www.zhihu.com/question/11039302175)
+- **热度**: 58 万热度
+- **摘抄**: 在传统神话故事里，哪吒自刎是个极具冲击力的情节，他为了不连累家人，以死明志，展现...
 
-<img src="https://picx.zhimg.com/dafe00ef9_xl.jpg?source=57bbeac9" alt="略缩图" width="200" />
+<img src="https://pic2.zhimg.com/50/v2-01a204e5618bb926e49cdc44a33bf047_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>9. DeepSeek这么“聪明”，会取代心理咨询师吗？</b></summary>
+<summary><b>8. 《唐探 1900》累计票房破 20 亿，你预测这部电影最终票房能到多少？能超过《唐探 3》吗？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/10977632127)
-- **热度**: 112 万热度
-- **摘抄**: DeepSeek这么“聪明”，会取代心理咨询师吗？
+- **地址**: [传送门](https://www.zhihu.com/question/10946699177)
+- **热度**: 58 万热度
+- **摘抄**: 唐探 3 票房是 42 亿
 
-<img src="https://pic1.zhimg.com/80/v2-af9361afb404b7b611e40e02de750582_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+<img src="https://pic2.zhimg.com/50/v2-a6dcffbc6a8b4221f0062420a3387055_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>10. 《封神榜》元始天尊为什么会放下面子跟截教小辈过招？</b></summary>
+<summary><b>9. 为什么很多大公司重视第一学历？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/666224653)
-- **热度**: 94 万热度
-- **摘抄**: 按理说这么地位崇高的长辈不应该啊？
+- **地址**: [传送门](https://www.zhihu.com/question/10499466615)
+- **热度**: 57 万热度
+- **摘抄**: 
 
-<img src="https://picx.zhimg.com/80/v2-dd72a418b43ed31069cc826e4e1469e4_1440w.png" alt="略缩图" width="200" />
+<img src="https://pic3.zhimg.com/50/v2-f7cded195e9431b3302e92ae3109666e_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>11. 特朗普承认加征关税将使美国人遭受痛苦，全美家庭平均将增税 830 美元，对他们生活影响有多大？</b></summary>
+<summary><b>10. 韩国棋院变更「提子保管规定」，取消「累计犯规将直接判负」，对赛事及其公平性有何影响？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11193069265)
+- **热度**: 57 万热度
+- **摘抄**: 2025年第一届韩国棋院运营委员会会议当地时间2月3日在首尔举行。在此次会议上，...
+
+<img src="https://pic4.zhimg.com/80/v2-e03f873ba92cde7c084353f565e88a1f_1440w.webp" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>11. 你知道 2025 蛇年为什么「两头春」吗？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/10463963944)
+- **热度**: 57 万热度
+- **摘抄**: 2025 蛇年包含了两个立春节气，你知道这是为什么吗？
+
+<img src="https://picx.zhimg.com/50/v2-008bebc7639bf620c64d1dfcb4431ba7_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>12. 大S流感并发肺炎去世引关注，专家提醒抓住自救「黄金 48 小时」，这段时间能做什么？日常如何防范流感？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11185166283)
+- **热度**: 57 万热度
+- **摘抄**: 2月3日，中国台湾艺人徐熙媛家人证实，她在日本因流感并发肺炎去世，终年48岁。大...
+
+<img src="https://picx.zhimg.com/80/v2-562c0cc8124a8620929ff7055dfa4bb2_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>13. 闻仲那么厉害，为什么打北海用了10年?</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/10922043904)
+- **热度**: 56 万热度
+- **摘抄**: 如题
+
+<img src="https://pica.zhimg.com/80/v2-42d32574deaa5dc1fe488bbd6a12d1ad_1440w.webp?source=2c26e567" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>14. 《哪吒之魔童闹海》你是从什么时候发现无量仙翁不对劲的？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11172707387)
+- **热度**: 56 万热度
+- **摘抄**: 你是从什么时候发现无量仙翁不对劲的？
+
+<img src="https://pic3.zhimg.com/v2-a6ec44822455062e44b13fc78e181602_1440w.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>15. 大部分人都惧怕蛇，但为何它会成为一种被人类崇拜的意象？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/9752079924)
+- **热度**: 55 万热度
+- **摘抄**: 
+
+<img src="https://picx.zhimg.com/80/v2-ea413ea159645f10d9ac1d3c26f24b24_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>16. 能说说进厂的感受吗?</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/583932527)
+- **热度**: 55 万热度
+- **摘抄**: 
+
+<img src="https://pic4.zhimg.com/50/v2-a2af254837dccc31d74fed52726e1783_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>17. 《红警2》最难任务是什么？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/647871255)
+- **热度**: 54 万热度
+- **摘抄**: 
+
+<img src="./img/1.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>18. 为何总有人莫名其妙的讨厌你呢？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/4786965026)
+- **热度**: 53 万热度
+- **摘抄**: 
+
+<img src="https://pic3.zhimg.com/50/v2-798aee6d71c453feef96a0915f184aee_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>19. 2025 电影票房破 100 亿，春节档总票房突破 81 亿创历史新高 ，对今年影视行业是否利好？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11049094830)
+- **热度**: 53 万热度
+- **摘抄**: 据网络平台数据，截至2月3日16时43分，2025年度票房（含预售实时）破100...
+
+<img src="https://pic3.zhimg.com/50/v2-ed6fa375924efdb3d01f86b34a94d6cc_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>20. 历史上有哪些堪称愚蠢的操作？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/6200928557)
+- **热度**: 53 万热度
+- **摘抄**: 
+
+<img src="https://picx.zhimg.com/50/v2-acab3e6a1913fb5011b950d88e01bd07_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>21. 小时候你都干过什么至今觉得很牛的事情?</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/629163697)
+- **热度**: 53 万热度
+- **摘抄**: 
+
+<img src="./img/1.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>22. 做小生意真的比打工强吗？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/22394536)
+- **热度**: 52 万热度
+- **摘抄**: 如题，没做过生意，但觉得打工已经到了瓶颈，做点小生意如何？吐槽的请止步，谢谢！
+
+<img src="https://pica.zhimg.com/80/v2-515c4ab7cbe626d066e9414b46a4e026_720w.png" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>23. 做菜小白，平时家里用电锅做菜，有什么好吃又简单的年夜菜推荐?</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/9561848686)
+- **热度**: 52 万热度
+- **摘抄**: 做菜水平一般，家里就用电锅做菜，想坐一桌丰盛的年夜菜，已经准备好并烀熟的猪肘子猪...
+
+<img src="https://picx.zhimg.com/50/v2-311bcd8abbaaae386f41515743ab10d7_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>24. 如何评价陈哲远、梁洁主演的电视剧《白色橄榄树》?</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/10913208108)
+- **热度**: 51 万热度
+- **摘抄**: 
+
+<img src="https://pic3.zhimg.com/50/v2-cfbd3edb92d043f1bf09a1c066039968_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>25. 日本流感疫情爆发，病例超 950 万人，现在还能去日本旅游吗？需要提前做好哪些预防准备？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11171087295)
+- **热度**: 51 万热度
+- **摘抄**: 2月3日，中国台湾女演员大S因流感并发肺炎去世。目前流感疫情正在日本迅速蔓延。本...
+
+<img src="https://picx.zhimg.com/80/v2-7e1cdcab45e50098b18b404193763ce9_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>26. 哪些声优吃了大量的角色红利？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/660556692)
+- **热度**: 50 万热度
+- **摘抄**: 
+
+<img src="https://picx.zhimg.com/80/v2-8c5d353ee61f15d1293b0fbfa0b28354_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>27. 2025 年年夜饭，预制菜在一片骂声中热销，背后原因有哪些？你能接受年夜饭吃预制菜吗？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11055714351)
+- **热度**: 50 万热度
+- **摘抄**: 进入2025年，大部分打工人的精神状态都是：人坐在工位上，鼻子却闻到了家中年夜饭...
+
+<img src="https://pic3.zhimg.com/50/v2-eb182e06a4e0f33b55cca997f3a7d498_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>28. 特朗普承认加征关税将使美国人遭受痛苦，全美家庭平均将增税 830 美元，对他们生活影响有多大？</b></summary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/11158179045)
-- **热度**: 89 万热度
+- **热度**: 49 万热度
 - **摘抄**: 特朗普发文承认加征关税会给美国人带来“一些痛苦”，但一切代价都值得付出；美智库称...
 
 <img src="https://pic1.zhimg.com/80/v2-2d8d57fff81e6f05bc30d280e633f8e2_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>12. 24-25 赛季英超联赛英超第24轮曼联 0:2 水晶宫，如何评价这场比赛？</b></summary>
+<summary><b>29. 《哪吒之魔童闹海》票房大成功是否意味着「影视行业寒冬」是个伪命题？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11131068473)
-- **热度**: 85 万热度
+- **地址**: [传送门](https://www.zhihu.com/question/11145686280)
+- **热度**: 48 万热度
 - **摘抄**: 
 
-<img src="https://pic1.zhimg.com/50/v2-8e91d2c0b3ec81d3e2f2997773d89f7c_b.jpg" alt="略缩图" width="200" />
+<img src="https://pic3.zhimg.com/50/v2-611863c4d3b59bcc107a9ace97e8bf3a_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>13. 美国的一个航母编队真的可以完爆一个中小国家吗？</b></summary>
+<summary><b>30. 《哪吒之魔童闹海》已打破 14 项影史纪录，这部电影到底成功在哪？对中国动画电影来说意味着什么？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11044506353)
-- **热度**: 83 万热度
-- **摘抄**: 我看到知乎上很多人说美国有十一个航母编队，每一个航母编队都可以灭掉一个中小型国家...
-
-<img src="https://pic1.zhimg.com/80/v2-c60109b823890373f71377f35c6a1906_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>14. 有什么关于「蛇」的冷知识吗？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/10491892638)
-- **热度**: 76 万热度
-- **摘抄**: 都说蛇是冷血动物，那有没有关于蛇的冷知识呢
-
-<img src="https://pic1.zhimg.com/80/v2-1aff03eabde8cf9284837054e387bf5f_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>15. 为什么我看了那么多严肃文学却写不出严肃文学来?</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11055264782)
-- **热度**: 72 万热度
-- **摘抄**: 看了有200本的严肃文学，写的时候一字一顿，写不出小说出来
-
-<img src="./img/1.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>16. 探春、李纨和宝钗理家，为什么大观园好像越来越乱了？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/10948482127)
-- **热度**: 64 万热度
-- **摘抄**: 《敏探春兴利除宿弊 时宝钗小惠全大体》这一章，探春的思路是很对的，贾府早就入不敷...
-
-<img src="https://picx.zhimg.com/80/v2-d1d7de7669668792ca4398000e767e1e_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>17. 蔚来公司 1 月交付新车 13863 台，如何评价该销量表现？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11035330721)
-- **热度**: 58 万热度
-- **摘抄**: 36氪获悉，2025年1月，蔚来公司交付新车13863台，同比增长37.9%。其...
-
-<img src="https://picx.zhimg.com/v2-b3d44f63e26e9390da11e20861c47055_xl.jpg?source=57bbeac9" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>18. 电影《哪吒之魔童闹海》中，如果哪吒在天元鼎吃了灭魂丹，无量仙翁真的会放过他的父母吗？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/10955625364)
-- **热度**: 57 万热度
-- **摘抄**: 哪吒在当时有没有更好的方法去救他的父母？
-
-<img src="https://picx.zhimg.com/50/v2-cef867a1311f6499722db1b5c0ded8c9_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>19. 就目前《封神第二部》的票房走势来说，《封神第三部》还有机会上映吗？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11083985185)
-- **热度**: 57 万热度
-- **摘抄**: 收多少票房有助于封神3做完后期？
-
-<img src="https://picx.zhimg.com/v2-9bf9951ed01229ecb2d76fda00df07d0_xl.jpg?source=c885d018" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>20. 湖人为什么要交易浓眉换来东契奇？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11115794037)
-- **热度**: 52 万热度
-- **摘抄**: 刚在咖啡店，听旁边俩年轻人说起来，还不相信，回家一看腾讯体育新闻,我的天啊‼️ ...
-
-<img src="https://picx.zhimg.com/80/v2-74fcbe6603499ae4bbb43dc3de4256e7_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>21. 印度紧随 DeepSeek 要搞自己的 AI 模型，称将与世界上最优秀的模型媲美，印度研发能力怎么样？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11035884730)
-- **热度**: 50 万热度
-- **摘抄**: 据参考消息援引新加坡《联合早报》网站1月31日报道，印度铁道、通信以及电子和信息...
-
-<img src="https://pic4.zhimg.com/50/v2-369192560f16f5e91d0cf490df0b3ca3_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>22. 《哪吒之魔童闹海》中申公豹、敖广、敖闰等算反派吗？为什么感觉他们并不讨厌？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11098339977)
+- **地址**: [传送门](https://www.zhihu.com/question/11091826662)
 - **热度**: 47 万热度
-- **摘抄**: [5 张图片]
+- **摘抄**: 据灯塔专业版数据，2025年春节档票房突破60亿！哪吒2已打破14项影史纪录。 ...
 
-<img src="https://pic4.zhimg.com/v2-d104771da824f58fba32059137de53a7_1440w.png" alt="略缩图" width="200" />
+<img src="https://pic2.zhimg.com/50/v2-59c95a0279e413eb11f058781c5866bf_b.jpg" alt="略缩图" width="200" />
 </details>
 
-<details>
-<summary><b>23. 李鸿章应该知道签订《马关条约》对他意味着什么，但他为什么不拒绝呢？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/645111426)
-- **热度**: 38 万热度
-- **摘抄**: 
-
-<img src="https://picx.zhimg.com/80/v2-7d5b133727a8cc4e1972897564c4cde2_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>24. 《哪吒之魔童闹海》票房破 30 亿，有望打破中国影史票房纪录，这部影片对中国电影有哪些启示？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11118999094)
-- **热度**: 35 万热度
-- **摘抄**: 据网络平台数据，《哪吒之魔童闹海》总票房（含点映及预售）已突破30亿元。 htt...
-
-<img src="https://pic3.zhimg.com/50/v2-86676383b3ad6d212e48aaee459af11e_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>25. Altman 承认 OpenAI 的闭源策略站在了历史的错误一边，将逐步开源些旧模型，这是怎样的信号？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11023058217)
-- **热度**: 31 万热度
-- **摘抄**: 在被问及是否会考虑发布一些模型权重以及一些研究时，OpenAI首席执行官Sam ...
-
-<img src="https://pic2.zhimg.com/50/v2-f6ba7d0adfa655302e8e1edf254a9bf1_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>26. 网传乘客在飞机上捡到鞭炮，真实情况如何？若属实责任方有哪些？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11043638610)
-- **热度**: 30 万热度
-- **摘抄**: 近日，有网友反映，自己1月31日乘坐山东航空SC2270由桂林飞厦门的航班时，疑...
-
-<img src="https://pic1.zhimg.com/80/v2-c5cbf6aa90ec57591252476434ba6176_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>27. 美国宣布对中国商品加征 10% 关税，对加拿大和墨西哥征收 25% 关税，有何意图？将产生哪些影响？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11082824643)
-- **热度**: 23 万热度
-- **摘抄**: 新华社消息，美国总统特朗普1日签署行政令，对进口自中国的商品加征10%的关税。美...
-
-<img src="https://picx.zhimg.com/80/v2-a9e63f6c17d630f3c55b3c6b7aeb08a4_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>28. 如何评价纲手当初提出的给每个小队配备一个医疗忍者的方案？</b></summary>
+/summary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/319480286)
 - **热度**: 9 万热度
