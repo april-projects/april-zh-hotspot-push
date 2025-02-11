@@ -4,7 +4,7 @@
 <summary><b>1. 网传哪吒2把急急如律令译成quickly quickly biubiubiu，官方辟谣，如何翻译合适？</b></summary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/11848696328)
-- **热度**: 1871 万热度
+- **热度**: 2285 万热度
 - **摘抄**: 当地时间2月8日，《哪吒2》在美国洛杉矶的好莱坞TCL中国大剧院举行北美首映礼。...
 
 <img src="https://pic1.zhimg.com/80/v2-523ac1e004263b36b0a8640a4fff7ec6_1440w.png" alt="略缩图" width="200" />
@@ -14,286 +14,293 @@
 <summary><b>2. 比亚迪智能化战略发布会上王传福宣布「比亚迪全系车型将搭载高阶智驾技术」，会对中国汽车行业带来哪些影响？</b></summary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/11843666102)
-- **热度**: 1662 万热度
+- **热度**: 1562 万热度
 - **摘抄**: 2月10日，比亚迪举办智能化战略发布会，发布全民智驾战略。 比亚迪集团董事长兼总...
 
 <img src="https://pic1.zhimg.com/80/v2-81d3376247cb794c976e94544af53bc8_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>3. 哪吒两个哥哥叫金吒、木吒，他为什么不叫水吒？</b></summary>
+<summary><b>3. 广西一中学教师被举报性侵，致女生轻生，官方称「部分内容属实，警方介入调查」，如何才能避免类似事件发生？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11878246869)
+- **热度**: 493 万热度
+- **摘抄**: 实名举报者农女士告诉奔流新闻记者，轻生的女生是她的表妹。今年1月17日，表妹在家...
+
+<img src="https://picx.zhimg.com/80/v2-dbdfde5524812d65ccdaa722bc1af048_1440w.png" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>4. 哪吒两个哥哥叫金吒、木吒，他为什么不叫水吒？</b></summary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/11717813322)
-- **热度**: 686 万热度
+- **热度**: 373 万热度
 - **摘抄**: 金木水火土，按顺序该轮到水了不是吗？
 
 <img src="https://pic1.zhimg.com/80/v2-5547f859ab92b8b42126ca80eb47c68b_1440w.png" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>4. 美亚利桑那州一机场两飞机在地面发生碰撞，造成至少 1 人死亡，美国飞机为何频繁出事？到底哪里出了问题？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11879236724)
-- **热度**: 493 万热度
-- **摘抄**: 当地时间10日14时45分左右，美国亚利桑那州斯科茨代尔机场两架飞机在地面跑道发...
-
-<img src="https://pic2.zhimg.com/50/v2-a1f50b34af99b056b96554b964d23467_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>5. 为什么很多公司因为「降本增效」而倒闭了？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/9987220611)
-- **热度**: 315 万热度
-- **摘抄**: 降本增效的目的是经济效益提升，资源配置优化，可为什么还又很多公司因为降本增效而倒...
-
-<img src="https://picx.zhimg.com/80/v2-f8317f94dfa635bbc5dec70c23a7b0ea_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>6. 《哪吒 2》疑遭「偷票房」，观众称电影票为手写版，什么样的行为算偷票房？影院应承担哪些法律责任？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11837808901)
-- **热度**: 297 万热度
-- **摘抄**: 光线传媒一工作人员回应称，“应该没有这么多票房损失，因为我们之前也发过一份《关于...
-
-<img src="https://pic1.zhimg.com/80/v2-97238d19bdc326812f98e63bfe5771a3_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>7. 东风汽车和重庆长安汽车公告筹划重组，哪些信息值得关注？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11824799494)
-- **热度**: 212 万热度
-- **摘抄**: 2月9日晚间，东风汽车股份有限公司和重庆长安汽车股份有限公司同时公告，双方的间接...
-
-<img src="https://pic2.zhimg.com/50/v2-27ce4acd3e990d709f05368d54df695b_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>8. 《哪吒 2 》爆火后，多地争相给哪吒「上户口」，你最认可哪种说法？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11820675692)
-- **热度**: 187 万热度
-- **摘抄**: 《哪吒之魔童闹海》“高开疯走”，频频创中国影史新纪录，目前已超过《指环王：王者无...
-
-<img src="https://picx.zhimg.com/80/v2-ca7c7fd47b593d187bef489076c08485_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>9. 如何看待「荷兰代尔夫特理工大学赵翰欣博士举报导师胁迫霸凌，并被打击报复甚至开除」事件？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11216765703)
-- **热度**: 166 万热度
-- **摘抄**: 赵本人已在国内外社交/视频网站（除知乎）上传更详细事情经过，最后三图为赵在X，油...
-
-<img src="https://pic4.zhimg.com/v2-4a3ac27fa453f48a9d6af95c64b1557b_r.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>10. 哈里森拒绝给东契奇 3.5 亿顶薪，为什么他会选择拒绝？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11820655351)
-- **热度**: 149 万热度
-- **摘抄**: 2月10日消息，据美国媒体报道，去年夏天，独行侠总经理尼科-哈里森拒绝与东契奇签...
-
-<img src="https://pica.zhimg.com/80/v2-8f2b41dc410ad3ca9cc0855e3d0b8e89_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>11. 一医院称禁止非医学需要终止妊娠，13 周后部分情况有证明可引产，从法律和医学角度看，医院有这种权利吗？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11738696226)
-- **热度**: 137 万热度
-- **摘抄**: 近日，有网友爆料江苏一#医院张贴禁止非医学需要终止妊娠#告示。记者致电医院求证，...
-
-<img src="https://pica.zhimg.com/80/v2-12cddb6c9327d884c16fb3be1490bdd8_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>12. 24-25赛季NBA常规赛勇士 125:111 雄鹿，如何评价这场比赛？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11883278379)
-- **热度**: 119 万热度
-- **摘抄**: 
-
-<img src="https://picx.zhimg.com/50/v2-3e1965c5092bd9636abf82409771773b_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>13. 如何看待比亚迪发布全系车型搭载高阶智驾系统，把智驾卷到 6.98 万？传统汽车定价体系还能撑多久？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11853881136)
-- **热度**: 104 万热度
-- **摘抄**: 2月10日，在“天神之眼开创全民智驾时代”比亚迪智能化战略发布会上，比亚迪集团总...
-
-<img src="https://pic2.zhimg.com/50/v2-084a20fb90493eb3645834db60f31d35_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>14. 如何看待《哪吒之魔童闹海》的预测票房上升至 142 亿？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11848486207)
-- **热度**: 103 万热度
-- **摘抄**: 猫眼预测又一次调高至142.57亿，古天乐说内地最近的票房“癫“了，究竟是猫眼“...
-
-<img src="https://pic4.zhimg.com/50/v2-e175abf200c56478675297d9ed102b5f_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>15. 概念领先中国至少十年，为何美国六代机至今仍只能停留在纸面上？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11765554531)
-- **热度**: 103 万热度
-- **摘抄**: 2023年9月，时任美国空军部长弗兰克·肯德尔在国会听证会上哀叹说：“NGAD（...
-
-<img src="https://pica.zhimg.com/80/v2-1cb0e33ae86c2809c5ed4f356e0e23b8_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>16. 特朗普签署行政令，对所有钢、铝进口加征 25% 的关税，原因是什么？会对相关产业带来什么影响？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11785781178)
-- **热度**: 102 万热度
-- **摘抄**: 最新进展： 当地时间2月10日，美国总统特朗普签署行政命令，宣布对所有进口至美国...
-
-<img src="https://picx.zhimg.com/80/v2-ea6e3424c1a78cece8f478e8a9257f08_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>17. 农村出身的大学生如今真的有出路吗?</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/661686472)
-- **热度**: 101 万热度
-- **摘抄**: 本人农村人，父母务农的原生家庭背景
-
-<img src="https://pica.zhimg.com/50/v2-d2d05646881e8f0486d8f220cfb60d3c_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>18. 世界人口减少到10亿，甚至2亿，人类还会为了资源而争斗不休吗？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11862777932)
-- **热度**: 100 万热度
-- **摘抄**: 有种说法，人类之所以自私和贪婪，社会之所以纷争不断，是因为资源有限，人口太多。那...
-
-<img src="https://pica.zhimg.com/80/v2-fceda987037dd039f8375ec698b49537_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>19. 2025 IEM 卡托维兹决赛 vitality 3:0 Spirit 夺冠，如何评价这场比赛？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11787732062)
-- **热度**: 96 万热度
-- **摘抄**: 如何评价双方在这场比赛的表现，这次失利暴露了绿龙哪些短板？
-
-<img src="https://pic4.zhimg.com/50/v2-9eb67811f4096f45c987afd850729c7f_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>20. 如果 2024 YR4 小行星真的撞击了地球，会造成什么后果？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11538209084)
-- **热度**: 96 万热度
-- **摘抄**: 
-
-<img src="https://pic1.zhimg.com/80/v2-ddacd2357d9087dc0adbb6ae95edccea_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>21. 饺子导演在《哪吒》系列之前从来没拍过长片电影，为啥一出手就是王炸？</b></summary>
+<summary><b>5. 饺子导演在《哪吒》系列之前从来没拍过长片电影，为啥一出手就是王炸？</b></summary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/11280054840)
-- **热度**: 96 万热度
+- **热度**: 277 万热度
 - **摘抄**: 哪吒的导演饺子是学医的，没有任何电影从业经验，哪吒之前也就出了两部短片，为何一出...
 
 <img src="https://picx.zhimg.com/80/v2-e5d9fbbe36348a8147efb36c45e66e93_1440w.png" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>22. 如何评价《哪吒之魔童闹海》幕后纪录片《不破不立》？</b></summary>
+<summary><b>6. 世界人口减少到10亿，甚至2亿，人类还会为了资源而争斗不休吗？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11824272302)
-- **热度**: 94 万热度
-- **摘抄**: 2025年2月10日，各大视频平台均上线了《不破不立》——哪吒之魔童闹海幕后纪录...
+- **地址**: [传送门](https://www.zhihu.com/question/11862777932)
+- **热度**: 176 万热度
+- **摘抄**: 有种说法，人类之所以自私和贪婪，社会之所以纷争不断，是因为资源有限，人口太多。那...
 
-<img src="https://pic3.zhimg.com/50/v2-0df5de19113b351b99d0d99610fbae60_b.jpg" alt="略缩图" width="200" />
+<img src="https://pica.zhimg.com/80/v2-fceda987037dd039f8375ec698b49537_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>23. 《天国：拯救2》有哪些把你逼疯或是气乐的事情？</b></summary>
+<summary><b>7. 知乎直答接入满血版 DeepSeek-R1 ，体验感如何？好不好用?</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11453431871)
-- **热度**: 87 万热度
-- **摘抄**: 乐，是真乐，这游戏其实挺抽象的…
+- **地址**: [传送门](https://www.zhihu.com/question/11891559945)
+- **热度**: 146 万热度
+- **摘抄**: 入口：知乎直答
 
-<img src="https://pic3.zhimg.com/50/v2-496786939e114ccedfccfbb5ca8f81aa_b.jpg" alt="略缩图" width="200" />
+<img src="https://pic3.zhimg.com/v2-ec7c46269f708018d720ec566be7f13a_1440w.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>24. 《哪吒 2》票房持续走高，它的成功是单一现象级奇迹吗？中国动画电影如何复制《哪吒 2》的成功？</b></summary>
+<summary><b>8. 如何看待小米su7ultra在成都天府赛道圈速1'26"741的成绩？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11826833021)
+- **地址**: [传送门](https://www.zhihu.com/question/11891324907)
+- **热度**: 122 万热度
+- **摘抄**: 不知道这个成绩如何，先占个坑，坐等各位大佬来回答。
+
+<img src="https://pic2.zhimg.com/50/v2-55722bccefd93e196edadf4ca4226fe3_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>9. 特朗普宣布对所有输美钢铝征收 25% 关税，并表示「没有例外和豁免」，对相关产业会带来哪些影响？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11881309372)
+- **热度**: 120 万热度
+- **摘抄**: 当地时间2月10日，美国总统特朗普签署行政命令，宣布对所有进口至美国的钢铁和铝征...
+
+<img src="https://pic1.zhimg.com/80/v2-428e07b831e32e52eaf442f0ccde5d3a_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>10. 《美国队长 4》定档2.14，是否会对《哪吒之魔童闹海》的票房造成影响？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11868012972)
+- **热度**: 114 万热度
+- **摘抄**: 
+
+<img src="https://picx.zhimg.com/v2-4f425f4a3a59be7b1c6a3659e8851f71_xl.jpg?source=c885d018" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>11. 为什么唯独《唐探 1900》没成为《哪吒 2》票房「虹吸效应」的炮灰？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11860018895)
+- **热度**: 101 万热度
+- **摘抄**: 今年2025春节档，其他所有电影在《哪吒2》巨大“虹吸效应”下票房都远低预测成绩...
+
+<img src="https://picx.zhimg.com/50/v2-c6f2e4bb1d641e5e31507bc61c5d8a73_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>12. 草量级已经无敌，张伟丽现在应该增重去打蝇量级吗？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11718120481)
+- **热度**: 99 万热度
+- **摘抄**: 张伟丽刚刚击败苏亚雷斯，肃清草量级2 月 9 日终极格斗冠军赛，张伟丽击败苏亚雷...
+
+<img src="https://pic3.zhimg.com/80/v2-a5abda9e55f2fd680d6b01caf54da390_1440w.webp" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>13. 24-25赛季NBA常规赛爵士 113:132 湖人，如何评价这场比赛？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11896549795)
+- **热度**: 92 万热度
+- **摘抄**: 
+
+<img src="https://pic3.zhimg.com/50/v2-7951320e63642a325bb6d446a89e3f3c_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>14. 广州为什么无法产生类似“杭州六小龙”这样的企业？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/10897563745)
+- **热度**: 90 万热度
+- **摘抄**: 
+
+<img src="https://picx.zhimg.com/50/v2-f683b2ea00284b97592179e53fdeba39_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>15. 概念领先中国至少十年，为何美国六代机至今仍只能停留在纸面上？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11765554531)
+- **热度**: 88 万热度
+- **摘抄**: 2023年9月，时任美国空军部长弗兰克·肯德尔在国会听证会上哀叹说：“NGAD（...
+
+<img src="https://pica.zhimg.com/80/v2-1cb0e33ae86c2809c5ed4f356e0e23b8_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>16. 如何评价苏宁旗下苏宁电器等三家公司公告破产重整，这意味着什么？会带来哪些影响？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11668184911)
+- **热度**: 86 万热度
+- **摘抄**: 2025年2月7日，全国企业破产重整案件信息网发布公告，苏宁电器集团、苏宁控股集...
+
+<img src="https://pic2.zhimg.com/50/v2-8bc13995c304fae99b9a9401d13b4db7_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>17. 如何评价2024年唐山GDP破万亿？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/10445059873)
 - **热度**: 83 万热度
 - **摘抄**: 
 
-<img src="https://pic2.zhimg.com/50/v2-328f3ebf17df71568ac95dc3706f1015_b.jpg" alt="略缩图" width="200" />
+<img src="https://pic3.zhimg.com/50/v2-7b64f6aef3f3842eafe4dc4f26b04cca_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>25. 如果发现了野生的尼安德特人，他们会被人类社会当作人还是野生动物看待？</b></summary>
+<summary><b>18. 万科重组，是否标志着 2025 年将会是房地产触底回升的一年？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/9849419450)
-- **热度**: 80 万热度
-- **摘抄**: 
-
-<img src="https://pic1.zhimg.com/80/v2-314405c79a6f1206bc707f2936b6e787_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>26. 假如一个人有能将恐虐打成重伤的实力，又想加入色孽会怎么样呢？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11383449182)
+- **地址**: [传送门](https://www.zhihu.com/question/11824269667)
 - **热度**: 78 万热度
-- **摘抄**: 如果一个灵能者拥有能将恐虐打成重伤的实力，但想加入色孽会怎么样呢？
+- **摘抄**: 2020年开始，自媒体 拆哪儿拆姐，都把万科的模式摸的底朝天，但是愣是没给万科带...
 
-<img src="https://picx.zhimg.com/80/v2-fad99b49c6a64ab4bcd63491e73e50ea_1440w.png" alt="略缩图" width="200" />
+<img src="https://picx.zhimg.com/80/v2-f792627746ed1412dfa4ad2cd2c40895_1440w.webp" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>27. 为什么「有的人遇到挫折一蹶不振，有的人却能很快振作」？是什么心理因素造成了这种差异？</b></summary>
+<summary><b>19. 如何看待《哪吒之魔童闹海》的预测票房上升至 142 亿？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11382515004)
-- **热度**: 77 万热度
-- **摘抄**: 是什么心理因素造成了这种差异？
+- **地址**: [传送门](https://www.zhihu.com/question/11848486207)
+- **热度**: 75 万热度
+- **摘抄**: 猫眼预测又一次调高至142.57亿，古天乐说内地最近的票房“癫“了，究竟是猫眼“...
 
-<img src="https://pic2.zhimg.com/50/v2-2adb16d434def063f981721c6d477743_b.jpg" alt="略缩图" width="200" />
+<img src="https://pic4.zhimg.com/50/v2-e175abf200c56478675297d9ed102b5f_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>28. 为什么很多北方方言词汇无法考证本字？</b></summary>
+<summary><b>20. 你是否支持酒店入住规则改为「24 小时房间使用权」？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/6684171586)
-- **热度**: 70 万热度
-- **摘抄**: 相比于南方方言的词汇，为什么大量北方方言词汇的本字没有被考证，甚至在方言学领域中...
-
-<img src="https://picx.zhimg.com/50/v2-ceeb7ec26e5c48869ef04f5730033be1_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>29. 健身到什么程度可以脱离私教？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/662602652)
-- **热度**: 69 万热度
+- **地址**: [传送门](https://www.zhihu.com/question/661942109)
+- **热度**: 72 万热度
 - **摘抄**: 
 
-<img src="https://picx.zhimg.com/80/v2-6bc129ade42a8a03684b0a10200a64dd_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+<img src="https://picx.zhimg.com/80/v2-beb896852007ef4f169f774083c22c59_1440w.png" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>30. 草量级已经无敌，张伟丽现在应该增重去打蝇量级吗？</b></summary>
+<summary><b>21. LOL 里这么设计一个偷家型英雄能上比赛吗？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/11718120481)
+- **地址**: [传送门](https://www.zhihu.com/question/11767681114)
+- **热度**: 72 万热度
+- **摘抄**: 该英雄技能为：塞恩被动，小丑的 q，派克的 w，探险家的 e，R 是原地召唤一个...
+
+<img src="https://picx.zhimg.com/v2-38d2060587485641346b99e0ac332191_xl.jpg?source=57bbeac9" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>22. 《哪吒 2》最有新意、最立体的角色是谁？《哪吒 3》你最希望进一步铺开的角色是哪个？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11731593416)
+- **热度**: 69 万热度
+- **摘抄**: 有人说是哪吒，他突破了以往的叙事，魔童的哪吒一直就是自卑的啊，他超级内耗的，就是...
+
+<img src="https://pic4.zhimg.com/50/v2-a32a1eedf7353fcb44ac657c2407a8b9_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>23. 如何评价游戏《终极提督：无畏舰》（Ultimate Admiral: Dreadnoughts)？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/415079004)
+- **热度**: 68 万热度
+- **摘抄**: 链接：https://store.steampowered.com/app/10...
+
+<img src="https://pica.zhimg.com/50/v2-1a2f963f0611cac9940cafc83c3d816c_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>24. 在职场中，「时代」比「平台」重要，「平台」比「个人能力」重要，你觉得真的是这样吗？你是如何排序的？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11695728340)
+- **热度**: 67 万热度
+- **摘抄**: 时代为组织或团体提供了发展机遇，组织或团体为个人施展才华和能力提供了平台。
+
+<img src="https://picx.zhimg.com/50/v2-6f941208b7cbcd17b532b2d2ecc8ab21_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>25. 职场中，同事总是故意把任务说一半，把工作完成不理想的责任推卸给我，导致领导对我有意见怎么办？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/4836252842)
+- **热度**: 67 万热度
+- **摘抄**: 事情是这样的，领导布置一个任务，让我和某个同事搭档完成。但是因为她才是主力，所以...
+
+<img src="./img/1.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>26. 用 DeepSeek 选股、炒股真的可行吗？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11380170158)
+- **热度**: 66 万热度
+- **摘抄**: 近期，随着DeepSeek爆火全网，不少网友社交媒体社交平台发帖称，已经开始用D...
+
+<img src="https://pic1.zhimg.com/80/v2-ab1837f319164621c8479235fa938e41_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>27. 怎么在读博期间保持热情？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/9121972013)
+- **热度**: 62 万热度
+- **摘抄**: 
+
+<img src="https://pic4.zhimg.com/50/v2-d2b39c2df001df73daccb6edfb79ac11_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>28. 知乎的历史大神们，请问你们的史料是怎么搜集的呀？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/5094016303)
+- **热度**: 58 万热度
+- **摘抄**: 我看知乎的历史大神们回答历史相关问题的时候旁征博引的，请问你们的史料是如何搜集的...
+
+<img src="https://picx.zhimg.com/80/v2-65b32e2536bb0b0a4c7920629ee6a653_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>29. 荀彧真的是忠于大汉吗，为什么晚年要跟曹操反目？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/666383930)
+- **热度**: 58 万热度
+- **摘抄**: 荀彧自幼被称为王佐之才，一直也衷心耿耿地辅佐曹操。为什么最后死得不明不白，真的是...
+
+<img src="https://picx.zhimg.com/v2-16a362c70d219d0465865b11be47a65f_xl.jpg?source=57bbeac9" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>30. 《哪吒 2 》爆火后，多地争相给哪吒「上户口」，你最认可哪种说法？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11820675692)
+- **热度**: 58 万热度
+- **摘抄**: 《哪吒之魔童闹海》“高开疯走”，频频创中国影史新纪录，目前已超过《指环王：王者无...
+
+<img src="https://picx.zhimg.com/80/v2-ca7c7fd47b593d187bef489076c08485_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+s://www.zhihu.com/question/11718120481)
 - **热度**: 68 万热度
 - **摘抄**: 张伟丽刚刚击败苏亚雷斯，肃清草量级2 月 9 日终极格斗冠军赛，张伟丽击败苏亚雷...
 
