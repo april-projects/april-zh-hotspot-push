@@ -7,8 +7,6 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # 分别在北京时间早8、12、下午4时拉取热点信息
-    - cron: '0 23 * * *'
-    - cron: '0 5 * * *'
     - cron: '0 8 * * *'
   workflow_dispatch:
 
