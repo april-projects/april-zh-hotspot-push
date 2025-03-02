@@ -1,287 +1,306 @@
 # 信息列表
 
 <details>
-<summary><b>1. 歌手方大同 2 月 21 日因病去世，享年 41 岁，你对他有哪些记忆？他有哪些打动你的音乐作品？</b></summary>
+<summary><b>1. 网传优酷正进行电视剧集数变革，最多只能12集，如何看待这一传闻？若属实，将给影视市场带来哪些影响？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/13734950445)
-- **热度**: 1599 万热度
+- **地址**: [传送门](https://www.zhihu.com/question/13658586246)
+- **热度**: 485 万热度
+- **摘抄**: 不久前，有网传消息称优酷自2025年起将不再接收16集以上的长剧，主要针对自制剧...
+
+<img src="https://pica.zhimg.com/v2-b1eb7224ed7d9a03820a4aea8af75a7f_xl.jpg?source=57bbeac9" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>2. 如何看待考研考生二战上海大学专业课考 10 分？真实情况是怎样的？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13726883917)
+- **热度**: 426 万热度
+- **摘抄**: 最新进展：3月1日晚，上海大学研究生院官网发布《情况声明》，表示考研研究生阅卷工...
+
+<img src="https://picx.zhimg.com/80/v2-99dab0a75e30e8cabf5f435052115fcb_1440w.png" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>3. 传奇投资者格兰瑟姆警告，美股即将崩盘，AI 泡沫终将破裂，美股当前 AI 泡沫有多大？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13719808639)
+- **热度**: 262 万热度
+- **摘抄**: 据券商中国，站在当前时点，关于美股科技泡沫的警告声，可谓不绝于耳。 其中，传奇投...
+
+<img src="https://picx.zhimg.com/80/v2-45ad1a549acba30cd4bdd984a2aecc59_1440w.png" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>4. 2024 年个税年度汇算于 3 月 1 日开始，申报有哪些注意事项？你是可以退税还是要补税？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13714911172)
+- **热度**: 231 万热度
+- **摘抄**: 个税年度汇算将于3月1日开始。个税汇算是指纳税人需汇总上一年度工资薪金、劳务报酬...
+
+<img src="https://picx.zhimg.com/80/v2-0980d5681064669c7d188470b06c6748_1440w.png" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>5. 为什么C语言从不被淘汰？那些Rust/Go吹嘘的安全特性，C语言真的做不到吗?</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13684481248)
+- **热度**: 146 万热度
+- **摘抄**: 最近学Rust和Go时，总看到有人说“C语言不安全”“内存管理是灾难”。但Lin...
+
+<img src="https://picx.zhimg.com/80/v2-bcd6bfa56ac621a38b5aaac42f00b96d_1440w.png" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>6. 24-25 赛季西甲联赛西甲第26轮皇家贝蒂斯 2:1 皇家马德里，如何评价这场比赛？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13789782791)
+- **热度**: 141 万热度
+- **摘抄**: 
+
+<img src="https://picx.zhimg.com/80/v2-db2934d90e3f1506683e37f02da728a2_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>7. 英国与乌克兰签署 22.6 亿英镑贷款协议，以加强乌国防能力，释放了哪些信号？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13799166723)
+- **热度**: 140 万热度
+- **摘抄**: 英国财政部首席秘书达伦·琼斯当地时间3月1日晚在社交媒体平台上表示，当天，英国财...
+
+<img src="https://pic1.zhimg.com/v2-267dbf8b5c9f87373e1f3271223067a8_1440w.png" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>8. 东北文学体现了哪些特有的东北地域文化？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/12918620182)
+- **热度**: 139 万热度
+- **摘抄**: 东北文学体现了哪些特有的东北地域文化？
+
+<img src="https://pic1.zhimg.com/80/v2-34326482d6bbda8b309abc46e256b639_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>9. 《哪吒之魔童闹海》剧情中有哪些 bug？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11387061617)
+- **热度**: 105 万热度
+- **摘抄**: 
+
+<img src="https://picx.zhimg.com/50/v2-4cb2ba2fc3808461d4dfdb78643ce339_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>10. 24-25赛季NBA常规赛勇士 119:126 76人，如何评价这场比赛？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13807832463)
+- **热度**: 71 万热度
+- **摘抄**: 
+
+<img src="https://picx.zhimg.com/80/v2-c73174ce3749aa8dc6007d6c0126fe21_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>11. 方大同和大 S 都长期素食，长期吃素会影响健康吗？应该怎样「科学吃素」？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13740868418)
+- **热度**: 63 万热度
+- **摘抄**: 
+
+<img src="https://pic1.zhimg.com/v2-3d6e974b6f985764ebcf39426ef87d15_xl.jpg?source=57bbeac9" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>12. 泽连斯基已乘飞机离开美国抵达英国，美乌闹掰谁是最大赢家？此事对欧洲国家意味着什么？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13761644461)
+- **热度**: 56 万热度
+- **摘抄**: 最新进展： 总台记者当地时间3月1日获悉，乌克兰总统泽连斯基已经抵达英国。更多资...
+
+<img src="https://pic1.zhimg.com/v2-f107bfb4fd0cf78090553825501318d0_1440w.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>13. 如何看待《怪物猎人·荒野》的差评如潮？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13753404816)
+- **热度**: 40 万热度
+- **摘抄**: 截至2025年3月1日，怪物猎人荒野国区共17k的评测，19%好评，中文评价数量...
+
+<img src="https://pic1.zhimg.com/80/v2-1a3609a5c857a9d608a3474da731eb4a_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>14. 执行死刑为什么要去刑场，而不是在牢里设置一个房间专门用来执行?</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/658579569)
+- **热度**: 39 万热度
+- **摘抄**: 以前执行死刑是公开的，是为了让更多人看到死刑犯被处决，所以需要拉到大庭广众之下让...
+
+<img src="https://pic1.zhimg.com/v2-1c3d24e50e3430ab16548e812e6a11d8_xl.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>15. 如何看待经历削弱后，《英雄联盟》梅尔胜率已跌至 45%？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13418325421)
+- **热度**: 37 万热度
 - **摘抄**: [图片]
 
-<img src="https://pic1.zhimg.com/80/v2-d4ec49766b2cf7f724a0e7bf8a6dcbb9_1440w.png" alt="略缩图" width="200" />
+<img src="https://pic4.zhimg.com/50/v2-52b05e4407900964de40d25783c05ebf_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>2. 小米su7 ultra原本准备卖80多万的车，为什么能降到52.99万？</b></summary>
+<summary><b>16. 特朗普和泽连斯基首脑会谈变激烈「骂战」，从外交角度来看，这是一种怎样的水平？算得上「翻车」吗？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/13619041106)
-- **热度**: 654 万热度
-- **摘抄**: 是亏本卖，还是哪些方面的成本降低了？
+- **地址**: [传送门](https://www.zhihu.com/question/13731642055)
+- **热度**: 36 万热度
+- **摘抄**: 当地时间2月28日，泽连斯基到访美国，与美总统特朗普会面，签署关于开发乌矿产资源...
 
-<img src="https://pica.zhimg.com/80/v2-ee3fd8060849e177c4a0d3acf0cf1214_1440w.png" alt="略缩图" width="200" />
+<img src="https://pic1.zhimg.com/80/v2-953758dde320b8b8a038419b8fb27411_1440w.png" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>3. 《哪吒 2》超越《蜘蛛侠：英雄无归》进入全球票房榜前 7 名，《哪吒 2》票房还能冲多高？</b></summary>
+<summary><b>17. 世界上最大的宝石是什么宝石？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/13711164774)
-- **热度**: 462 万热度
-- **摘抄**: 据猫眼专业版数据，《哪吒之魔童闹海》累计票房（含海外及预售票房）超141.60亿...
+- **地址**: [传送门](https://www.zhihu.com/question/429231337)
+- **热度**: 34 万热度
+- **摘抄**: 最贵的又是什么宝石？
 
-<img src="https://pic3.zhimg.com/50/v2-784b0b79b5e3065894f678546b0861d4_b.jpg" alt="略缩图" width="200" />
+<img src="https://pica.zhimg.com/50/v2-4fe53b1597c5d28a96691f7764d3701e_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>4. 美国司法部公布爱泼斯坦案首批文件档案，包含性剥削 250 多名未成年女孩等内容，还有哪些内容值得关注？</b></summary>
+<summary><b>18. 为什么枯山水在中国不流行？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/13612528698)
-- **热度**: 430 万热度
-- **摘抄**: 当地时间2月27日，美国司法部在其网站上公布了与爱泼斯坦案有关的首批文件档案。 ...
+- **地址**: [传送门](https://www.zhihu.com/question/23448967)
+- **热度**: 33 万热度
+- **摘抄**: 枯山水在日本这么盛行，为什么在文化相似的中国却很罕见？
 
-<img src="https://picx.zhimg.com/80/v2-5d1e3a1c49b6a00fe61dcf67822a6c33_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+<img src="https://pica.zhimg.com/50/9ca688b23c986ae677d76346f8903dd2_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>5. DeepSeek 公布模型推理成本利润细节，透露了哪些关键信息？</b></summary>
+<summary><b>19. 如何看待莲花集团CEO发文，认为「对赛道的敬畏并不是单纯堆积电机与马力，弯道快的只有莲花和保时捷」?</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13691384077)
+- **热度**: 29 万热度
+- **摘抄**: 莲花集团CEO冯擎峰今日在微博发文称，对赛道的敬畏并不是电机与马力的单纯堆积，大...
+
+<img src="https://pic1.zhimg.com/80/v2-ac560651156126b312054f699368e800_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>20. 两名溶洞潜水科考人员被困， 69 小时后营救后奇迹生还，这么危险的潜水科研值得么？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13653601935)
+- **热度**: 28 万热度
+- **摘抄**: 2月5日，两名科考队员在广西百色市田阳区的一个溶洞内潜水时失联，后经当地公安、应...
+
+<img src="https://pic3.zhimg.com/v2-5dedd36d0277f030340346bc8477aa36_1440w.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>21. 《哪吒之魔童闹海》中无量仙翁为什么说天元鼎是阐教根基？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/11906192085)
+- **热度**: 23 万热度
+- **摘抄**: 无量仙翁在天元鼎被破的时候说的
+
+<img src="https://pica.zhimg.com/80/v2-96edb48054fe1db77d5ca50159e4695a_1440w.webp" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>22. 吃过最好吃的鱼是什么鱼？</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/334848608)
+- **热度**: 22 万热度
+- **摘抄**: 
+
+<img src="https://pic2.zhimg.com/50/v2-3fa0d163a428d3dcb3eee4bd4c1af9c9_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>23. 如何评价《原神》2025年3月1日更新的幻想真境剧诗（冰水雷）?</b></summary>
+
+- **地址**: [传送门](https://www.zhihu.com/question/13745253584)
+- **热度**: 19 万热度
+- **摘抄**: 
+
+<img src="https://pic1.zhimg.com/50/v2-a2b3ad244e07e2094ad63eea064506be_b.jpg" alt="略缩图" width="200" />
+</details>
+
+<details>
+<summary><b>24. DeepSeek 公布模型推理成本利润细节，透露了哪些关键信息？</b></summary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/13730017341)
-- **热度**: 414 万热度
+- **热度**: 19 万热度
 - **摘抄**: 一天的总收入为 $562,027，成本利润率 545%DeepSeek：Deep...
 
 <img src="https://picx.zhimg.com/v2-02037b7de4bdb9bc5aca81b2fe9bfe19_r.jpg?source=1def8aca" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>6. 如何看待英伟达第四财季超市场预期，但股价大跌？</b></summary>
+<summary><b>25. 《无畏契约》2025 曼谷大师赛败者组决赛 EDG 1:3 不敌 T1，如何评价这场比赛？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/13592759532)
-- **热度**: 406 万热度
-- **摘抄**: 当地时间2月26日，英伟达公布了2025财年第四财季及全年业绩数据，以及2026...
-
-<img src="https://pic2.zhimg.com/v2-66bc29bed1475a134cd0e6d97091db09_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>7. 特朗普与泽连斯基会面发生争吵，美乌矿产协议暂未签署，这释放了什么信号？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/13666582874)
-- **热度**: 402 万热度
-- **摘抄**: 当地时间2月28日，美国总统特朗普与乌克兰总统泽连斯基在白宫举行会谈。会谈过程中...
-
-<img src="https://pic4.zhimg.com/v2-f4e22244da7116435ee0f69543e87b0b_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>8. 微软推出广告测试版Office，你能接受办公软件有弹窗广告吗？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/13563739213)
-- **热度**: 400 万热度
-- **摘抄**: 近日，有媒体报道，微软正在测试广告版Microsoft Office，测试版内置...
-
-<img src="https://pic1.zhimg.com/80/v2-098c0027c68967b18e327b45d79f3410_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>9. 24-25赛季NBA常规赛快船 102:106 湖人，如何评价这场比赛？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/13725232354)
-- **热度**: 399 万热度
+- **地址**: [传送门](https://www.zhihu.com/question/13755153969)
+- **热度**: 19 万热度
 - **摘抄**: 
 
-<img src="https://pic3.zhimg.com/50/v2-151f6d45464a31d767fb57404cd9a670_b.jpg" alt="略缩图" width="200" />
+<img src="https://pic2.zhimg.com/50/v2-954b367e2e18d85327c7baeedba06433_b.jpg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>10. 方大同被曝此前因出现（气胸）爆肺而数度住院，气胸对身体影响有多大？有哪些预防手段？</b></summary>
+<summary><b>26. 方大同被曝此前因出现（气胸）爆肺而数度住院，气胸对身体影响有多大？有哪些预防手段？</b></summary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/13735749077)
-- **热度**: 398 万热度
+- **热度**: 17 万热度
 - **摘抄**: 此前新闻报道： 你还记得方大同吗？ 你听过方大同的歌吗？ 作为中国香港著名的男歌...
 
 <img src="https://picx.zhimg.com/80/v2-f9f470f0b14619d2b46a293aa914b0ea_1440w.png" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>11. 如何看待纪录片《大国基石》谈及国产动画人物多数以白人脸为主，要建立亚洲人像数据库？</b></summary>
+<summary><b>27. 如何评价《龙珠》里的十倍界王拳?</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/13615402158)
-- **热度**: 346 万热度
-- **摘抄**: 那么国产动画以前都是欧美人建模吗，如果要建立，会给国产动画带来什么改变 《大国基...
-
-<img src="https://pic4.zhimg.com/v2-4bb09d47f8222e4ae4d69254f8a3e2db_1440w.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>12. 连亏九年之后，香港迪士尼终于盈利，为何会亏损这么多年？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/13406158720)
-- **热度**: 297 万热度
-- **摘抄**: 在连续九年亏损之后，香港迪士尼终于在2024财政年度（2023年10月1日至20...
-
-<img src="https://picx.zhimg.com/80/v2-9debce46510fe286f7b63248264641b5_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>13. 中国「祝融号」发现火星中低纬度地区曾存在古代海洋，这一发现意味着什么？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/13621337271)
-- **热度**: 237 万热度
-- **摘抄**: 记者从中国科学院空天信息创新研究院获悉，该院方广有研究员领导的月球与火星探测雷达...
-
-<img src="https://pic1.zhimg.com/50/v2-e6496b76fd0fe1dda23a8e89e9824f18_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>14. 为什么李鸿章在《辛丑条约》上签“肃”呢？“肃”代表什么？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/606492887)
-- **热度**: 182 万热度
+- **地址**: [传送门](https://www.zhihu.com/question/7633089322)
+- **热度**: 16 万热度
 - **摘抄**: 
 
-<img src="https://pica.zhimg.com/80/v2-ed77d37453c1091958c54693f1e19747_1440w.webp?source=1940ef5c" alt="略缩图" width="200" />
+<img src="https://picx.zhimg.com/80/v2-26b8a5bca8b1156dc7360af72eed9772_1440w.png" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>15. 为何特朗普和泽连斯基能真的吵起来？发生在白宫的这场激烈「骂战」将如何影响世界局势？</b></summary>
+<summary><b>28. 为什么「美强惨」如此受人喜爱？可以从心理学角度分析吗？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/13731737904)
-- **热度**: 176 万热度
-- **摘抄**: 地时间2月28日，泽连斯基到访美国，与美总统特朗普会面，签署关于开发乌矿产资源的...
+- **地址**: [传送门](https://www.zhihu.com/question/13541859495)
+- **热度**: 15 万热度
+- **摘抄**: @知乎心理
 
-<img src="https://picx.zhimg.com/80/v2-b873cbe280c43ce386952727b65bae62_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
+<img src="https://pic4.zhimg.com/v2-af7239f7013df408d603304100ffb48f_1440w.jpeg" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>16. 郑渊洁承认自己写不过 AI，让 AI 写用自己的手法写文章仅用 4 秒钟，AI 未来会取代作家吗？</b></summary>
+<summary><b>29. 职场人是愿意选择挣钱多休息少的工作，还是挣钱少休息多的工作？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/13616094567)
-- **热度**: 170 万热度
-- **摘抄**: （来源：澎湃新闻） 近日，郑渊洁受访时表示将停更所有社媒，就像当年停刊《童话大王...
+- **地址**: [传送门](https://www.zhihu.com/question/13746336583)
+- **热度**: 15 万热度
+- **摘抄**: 歌手方大同的去世，引发了很多思考。 为了完成工作，似乎加班加点已经成了常态。但是...
 
-<img src="https://pica.zhimg.com/80/v2-1740d5ab1dff3aa01ecd9e5a5ffbe459_1440w.png" alt="略缩图" width="200" />
+<img src="https://picx.zhimg.com/80/v2-0c60eb1771c4ef3d0c7e8b90d35c661c_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
 </details>
 
 <details>
-<summary><b>17. AMD RX 9070显卡4499元起，9070 XT 4999元起，如何评价？</b></summary>
+<summary><b>30. 如何评价 2025 年 2 月米哈游《崩坏：星穹铁道》3.1 反派「至黑之剑，盗火行者」？</b></summary>
 
-- **地址**: [传送门](https://www.zhihu.com/question/13677485380)
-- **热度**: 163 万热度
-- **摘抄**: 根据网上今日流传出的一张照片，AMD RX 9070 和 9070 XT 显卡的...
+- **地址**: [传送门](https://www.zhihu.com/question/13480712762)
+- **热度**: 12 万热度
+- **摘抄**: [图片]
 
-<img src="https://pic1.zhimg.com/50/v2-70cb655488fc5bd0e33be0dc52ba6710_b.jpg" alt="略缩图" width="200" />
+<img src="https://picx.zhimg.com/80/v2-e84bcffaeae43fa8a79bf7b4d1230603_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
 </details>
 
-<details>
-<summary><b>18. 「上班恶心穿搭」潮热度不减，年轻人故意穿丑衣服上班，是反抗职场规训，还是自我保护策略？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/13608593577)
-- **热度**: 107 万热度
-- **摘抄**: 某社区平台“上班恶心穿搭”小组20万人分享经验：起球毛衣+荧光色棉裤、袜子套凉鞋...
-
-<img src="https://pica.zhimg.com/80/v2-c58f424982aaa93814545612916c6fcf_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>19. 各种家电为什么只有扫地机被称为机器人？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/13722449685)
-- **热度**: 85 万热度
-- **摘抄**: 在智能家电飞速发展的当下，国货一路崛起，如扫地机器人等家电产品技术和参数早已碾压...
-
-<img src="https://pic2.zhimg.com/50/v2-6b3f59c4c9dd9f377cd6ba8f661e16f1_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>20. GPT-4.5 的表现未能带来震撼，是否证明大模型的发展进入了瓶颈期？非推理模型是否还能有突破性提升？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/13623202505)
-- **热度**: 64 万热度
-- **摘抄**: 
-
-<img src="https://picx.zhimg.com/80/v2-9b218467ee3bbd5347ec50e82b248cab_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>21. 无量仙翁为啥要剿灭申正道一家？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/12029478727)
-- **热度**: 60 万热度
-- **摘抄**: 如果说无量仙翁屠灭陈塘关是为了嫁祸龙族，那为啥要剿灭申公豹的家呢？不可能仅仅是为...
-
-<img src="https://picx.zhimg.com/80/v2-75d7a36238362ea3b4fccf6df1e1da81_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>22. 为什么《哪吒 2》比《哪吒 1》火？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/11553068547)
-- **热度**: 48 万热度
-- **摘抄**: 哪吒1和2都看了，显然哪吒2更爆火，国外的票也抢疯了，但个人感觉哪吒1也很好，为...
-
-<img src="https://picx.zhimg.com/80/v2-0d574ad63bc09cbca3c3636f0bb9244e_720w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>23. 如何评价游戏《怪物猎人：荒野》？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/13433077348)
-- **热度**: 47 万热度
-- **摘抄**: 
-
-<img src="https://picx.zhimg.com/50/v2-8e359f21223784364ef3635df8169a49_b.jpg" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>24. 为什么中国没有出现百年家族企业？而欧美家族企业很常见？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/21545007)
-- **热度**: 43 万热度
-- **摘抄**: 
-
-<img src="https://picx.zhimg.com/80/ede0f4ea4f6bfbc60fc27a381e526da4_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>25. 为什么看到陈塘关屠城，哪吒不先去报仇，而先去完成考核？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/12843563709)
-- **热度**: 41 万热度
-- **摘抄**: 有网友不理解，认为剧情转折太突兀，或者认为情绪一下子转折太大。 我把我的解读贴在...
-
-<img src="https://picx.zhimg.com/80/v2-fcbaf02edc51fc7d1f000a15dab9f56b_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>26. 为什么日常聊天发信息时，大家不爱用句号？标点符号的含义在今天的数字化沟通中发生了哪些变化？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/13412956642)
-- **热度**: 39 万热度
-- **摘抄**: 在今天，一个句号爱好者大概是不可能在被拉黑前聊完天的。 新的网络社交礼节已经把句...
-
-<img src="https://pic1.zhimg.com/80/v2-21f1a7a7bee2cce1b1c0293e853221f9_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>27. 明末明军大兵团作战拉胯的原因是什么？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/4388318253)
-- **热度**: 36 万热度
-- **摘抄**: 如题，明清战争的大致脉络大概理清楚了，明军的野战其实没有那么差，还是有几只部队在...
-
-<img src="https://pic1.zhimg.com/80/v2-5fa6d4e666a408b74328abde23599445_1440w.webp?source=1def8aca" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>28. 如何看待我与父亲不同的观点，小学到初中阶段的小孩，一定要读书吗？</b></summary>
-
-- **地址**: [传送门](https://www.zhihu.com/question/661948585)
-- **热度**: 35 万热度
-- **摘抄**: 不是所有小孩都天生爱读书的。如果一个孩子讨厌上学，且就是考不到好成绩，那就应该被...
-
-<img src="https://pic1.zhimg.com/80/v2-10480de717c26d81083a30bf572ec12d_1440w.png" alt="略缩图" width="200" />
-</details>
-
-<details>
-<summary><b>29. 如何看待王虹和 Joshua Zahl 在 arXiv 发布对三维挂谷（Kakeya）猜想的证明？</b></summary>
+ary>
 
 - **地址**: [传送门](https://www.zhihu.com/question/13416663153)
 - **热度**: 35 万热度
